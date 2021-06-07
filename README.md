@@ -1,4 +1,4 @@
-# End to end motion planner using Deep Deterministic Policy Gradient (DDPG) in gazebo
+# End to end motion planner using Deep Deterministic Policy Gradient (DDPG) in gazebo (DDPG, gazebo, turtlebot3, tensorflow )
 
 The goal is to use deep reinforcement learning algorithms: Deep Deterministic Policy Gradient (DDPG) to control mobile robot(turtlebot) to avoid obstacles while trying to arrive a target.
 
